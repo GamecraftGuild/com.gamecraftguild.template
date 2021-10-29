@@ -1,0 +1,29 @@
+{
+    "name": "com.gamecraftguild.UNITY_PACKAGE_NAME",
+    "displayName": "@gamecraftguild/UNITY_PACKAGE_NAME",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "description": "<enter a description>",
+    "keywords": [
+          "unity",
+          "upm",
+          "gamecraftguild"
+      ],
+    "homepage": "https://github.com/GamecraftGuild",
+    "bugs": {
+      "url": "https://github.com/GamecraftGuild/com.gamecraftguild.UNITY_PACKAGE_NAME/issues"
+     },
+    "repository": {
+       "type": "git",
+       "url": "ssh://git@github.com/GamecraftGuild/com.gamecraftguild.UNITY_PACKAGE_NAME.git"
+    },
+    "license": "MIT",
+    "author": {
+           "name": "Gamecraft Guild",
+           "email": "gamecraftguild@gmail.com",
+           "url": "https://github.com/GamecraftGuild"
+     }
+  }

@@ -20,7 +20,7 @@ jobs:
        node-version: 12
        registry-url: https://registry.npmjs.org/
    # Navigate to package directory
-   - run: cd ./Packages/com.gamecraftguild.<unity_package_name>
+   - run: cd ./Packages/com.gamecraftguild.UNITY_PACKAGE_NAME
    
    # Publish to npm
    - run: npm publish --access public
