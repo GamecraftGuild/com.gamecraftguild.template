@@ -3,6 +3,7 @@
     "displayName": "@gamecraftguild/UNITY_PACKAGE_NAME",
     "version": "1.0.0",
     "unity": "2020.3",
+    "unityRelease": "21f1",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
